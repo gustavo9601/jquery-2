@@ -1,0 +1,108 @@
+
+body
+{
+    background-color: #1da1f2;
+    font-family: monospace;
+}
+
+div.container
+{
+   
+    padding: 50px;
+    position: relative;
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
+
+div.cotenedor1
+{
+    width: 100%;
+    border: 1px solid white;
+}
+
+div.cotenedor1 input
+{
+    margin: 10px;
+    width: 580px;
+    padding: 10px 0;
+    font-size: 20px;
+}
+
+div.cotenedor1 textarea
+{
+    margin-top: 10px;
+    width: 580px;
+    height: 100px;
+    resize: none;
+     font-size: 20px;
+}
+
+select
+{
+    color: #aab8c2;
+    width: 280px;
+    float: left;
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+
+button#miBoton
+{
+    background-color: #f5f8fa;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    cursor:pointer;
+    transition: all .5s ease;
+}
+
+button#miBoton:hover
+{
+    transition: all .5s ease;
+    background-color: #657786;
+    color: white;
+}
+
+div.contenedor2
+{
+    box-sizing: border-box;
+    padding: 10px;
+    height: 250px;
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+    border: 1px solid white;
+}
+
+div.contenedor2 h2
+{
+    width: 300px;
+    text-align: left;
+}
+
+div.resultado1
+{
+    float: left;
+}
+
+div.comentarios
+{
+    margin-top: 10px;
+    position: relative;
+    float: right;
+    width: 270px;
+    height: 200px;
+    background-color: #e1e8ed;
+    font-size: 20px;
+}
+
+h2.edad,
+h2.hobbie
+{
+    font-size: 20px;
+}

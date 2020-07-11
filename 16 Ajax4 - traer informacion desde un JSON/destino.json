@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "bahira de bogota dc",
+        "description": "asssssssssssssssssssssssssssasasa",
+        "moreInfo": "Holaaaaaaaaaa",
+        "image": "image1.png",
+        "price": 199
+    },
+     {
+        "id": 2,
+        "name": "Bahita de boyaca",
+        "description": "asssssssssssssssssssssssssssasasa",
+        "moreInfo": "Holaaaaaaaaaa",
+        "image": "image1.png",
+        "price": 199
+    },
+      {
+        "id": 3,
+        "name": "Bahita de cali",
+        "description": "asssssssssssssssssssssssssssasasa",
+        "moreInfo": "Holaaaaaaaaaa",
+        "image": "image1.png",
+        "price": 199
+    }
+]

@@ -1,0 +1,42 @@
+body
+{
+    background-color: khaki;
+    margin: 0;
+    padding: 0;
+}
+
+div.Contador
+{
+    width: 300px;
+    background-color: #e0daa1;
+    border: 1px solid white;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+
+
+div.Contador button
+{
+    padding: 10px;
+    background-color: darkred;
+    color: white;
+}
+
+div.Contador h3
+{
+    display:  inline-block;
+    margin: 20px;
+    border: 1px solid white;
+    padding: 10px;
+    
+}
+
+
+/*Clase para cuando se avtive un evento*/
+.cambioColor
+{
+    background-color: #504747;
+}

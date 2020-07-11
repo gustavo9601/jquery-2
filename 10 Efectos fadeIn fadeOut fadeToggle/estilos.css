@@ -1,0 +1,70 @@
+body
+{
+    background-color: khaki;
+    margin: 0;
+    padding: 0;
+}
+
+
+div.item-Box
+{
+    border: 2px solid white;
+    width: 400px;
+    margin: 10px;
+    background-color: rgba(172, 168, 168, 0.81);
+
+}
+
+
+div.item-Box img
+{
+    position: relative;
+    width: 100%;
+}
+
+.item-Title,
+.item-Price
+{
+    font-size: 28px;
+    color: slateblue;
+    text-align: center;
+}
+
+p
+{
+    font-size: 18px;
+}
+
+div.boton
+{
+    text-align: center;
+}
+
+
+button
+{
+    padding: 15px;
+    text-align: center;
+    font-size: 15px;
+    background-color: #97a8c9;
+    cursor: pointer;
+}
+
+button:hover
+{
+       background-color: rgba(151, 168, 201, 0.4);
+}
+
+a.info-Link
+{
+    display: inline-block;
+    color: red;
+    font-size: 18px;
+    margin-bottom: 50px;
+    
+}
+
+div.mas-Informacion
+{
+    display: none;
+}

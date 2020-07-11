@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="estilos.css">
+        <title>Jquery y Ajax</title>
+    </head>
+    <body>
+        <div class="result"></div>
+        <form action="" id="miFormulario" method="post">   
+            <div class="contenedor">
+                <label for="nombre">Nombre</label>
+                <input type="text" id="nombre" name="nombre">
+                <label for="direccion">Direccion</label>
+                <input type="text" id="direccion" name="direccion">
+                <label for="edad">Edad</label>
+                <input type="text" id="edad" name="edad">
+                <label for="cualquierAnimal">Cualquier Animal</label>
+                <input type="checkbox" name="cualquierAnimal" id=cualquierAnimal>
+                <div class="seleccioneMascota">
+                    <label for="">Mascota</label>
+                    <select name="" id="seleccionMascota">
+                        <option value="">----</option>
+                        <option value="perro">Perro</option>
+                        <option value="gato">Gato</option>
+                    </select>
+                </div>
+                <div class="mostrarTexto">
+
+                </div>
+
+                <div class="boton">
+
+                    <button type="submit">Guardar</button>
+                </div>
+            </div>
+        </form>
+
+       
+
+        <script type="text/javascript" src="jquery-3.0.0.min.js"></script>
+        <script type="text/javascript" src="script.js"></script>
+    </body>
+</html>

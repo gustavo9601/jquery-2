@@ -1,0 +1,53 @@
+body
+{
+    background-color: khaki;
+}
+
+
+
+div.contenedor2
+{
+    margin-top: 50px;
+    border: 1px solid white;
+    position: relative;
+    width: 100%;
+    background-color: darkred;
+}
+
+
+div.contenedor2
+{
+    height: 200px;
+}
+
+
+div.contenedor2 div.resutlado
+{
+    position: relative;
+    height: 100px;
+    margin-top: 50px;
+    background-color: rgba(10, 10, 10, 0.4);
+    color: white;
+    font-size: 25px;
+}
+
+div.contenedor2 div.resutlado a
+{
+    top: 12px;
+    position: relative;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    padding: 10px;
+    transition:  all .5s ease;
+}
+
+
+div.contenedor2 div.resutlado a:hover
+{
+    background-color: white;
+    color: black;
+    transition:  all .5s ease;
+}
+
+

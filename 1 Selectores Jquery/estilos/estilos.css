@@ -1,0 +1,12 @@
+.miClase
+{
+    border: solid 10px green;
+    padding: 50px;
+    cursor: pointer;
+}
+
+.otraClase
+{
+    color: darkred;
+    background-color: yellow;
+}

@@ -1,0 +1,58 @@
+
+
+body
+{
+  
+    background-color: khaki;
+    margin: 0;
+    padding: 0;
+}
+
+div.contenedor
+{
+border: 1px solid black;
+    padding: 5px;
+    margin: 0 auto;
+    margin-top: 100px;
+    position: relative;
+    width:200px;
+
+}
+
+div.contenedor input
+{
+    width: 100%;;
+}
+
+div.contenedor input#cualquierAnimal
+{
+    width: 10%;
+}
+div.boton 
+{
+    margin-top: 5px;
+    text-align:center;
+}
+
+button
+{
+    padding:5px;
+}
+
+button:hover
+{
+    cursor:pointer;
+    background-color: #fff;
+    color: ·#333;
+}
+
+div.seleccioneMascota
+{
+    display: none;
+    margin-top: 10px;
+}
+
+div.seleccioneMascota select
+{
+    width: 100%;
+}
